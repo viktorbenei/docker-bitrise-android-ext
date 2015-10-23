@@ -1,2 +1,4 @@
 # docker-bitrise-android-ext
-Docker image, extending the base Bitrise Android Docker image
+
+(Example) Docker image, extending the base Bitrise Android Docker image,
+installing additional Android SDK versions.
