@@ -8,7 +8,7 @@ RUN echo y | android update sdk --no-ui --all --force --filter \
   platform-tools,extra-android-support
 # build tools
 RUN echo y | android update sdk --no-ui --all --force --filter \
-  build-tools-20.1.0
+  build-tools-20.0.0
 # SDKs
 RUN echo y | android update sdk --no-ui --all --force --filter \
   android-20
